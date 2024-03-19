@@ -15,5 +15,5 @@ rev() {
 
   printf("\nReversed number = %d\n\n", reverse);
 
-  return 0;
+    return 0;
 }
